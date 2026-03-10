@@ -1,0 +1,11 @@
+order_id,order_date,region,product_name,category,quantity,unit_price,total_sales
+1,2024-01-10,West,Laptop,Electronics,2,800,1600
+2,2024-01-11,East,Mouse,Accessories,5,20,100
+3,2024-01-12,South,Keyboard,Accessories,3,50,150
+4,2024-01-12,West,Monitor,Electronics,1,300,300
+5,2024-01-13,North,Desk,Office,1,200,200
+6,2024-01-14,South,Chair,Office,2,150,300
+7,2024-01-15,East,Headphones,Electronics,4,100,400
+8,2024-01-16,West,Printer,Electronics,1,250,250
+9,2024-01-17,North,Notebook,Stationery,10,5,50
+10,2024-01-18,South,Tablet,Electronics,2,500,1000
